@@ -35,7 +35,7 @@ function GetProperties()
         {
             Name = "IP Address",
             Type = "string",
-            Value = "127.0.0.1"
+            Value = "10.10.132.75"
         },
         {
             Name = "Model",
